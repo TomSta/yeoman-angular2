@@ -1,0 +1,25 @@
+{
+  "name": "generator-yang2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "generators/app"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "lodash": "^4.1.0",
+    "yeoman-generator": "^0.22.5"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "yeoman-assert": "^2.1.1",
+    "yeoman-test": "^1.0.0"
+  }
+}
